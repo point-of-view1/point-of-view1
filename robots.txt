@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://point-of-view1.pages.dev/sitemap.xml
+Sitemap: https://point-of-view1.github.io/sitemap.xml
